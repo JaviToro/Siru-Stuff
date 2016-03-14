@@ -30,6 +30,43 @@
 			"url": "https://github.com/JaviToro/Siru-Stuff/raw/master/Wallpapers/Reflexion.jpg",
 			"name": "Reflexion",
 			"dimensions": "5312x2988"
+		},
+		{
+			"author": "Gregorio Hernández",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/River.jpeg",
+			"name": "River",
+			"dimensions": "4068x2592"
+		},
+		{
+			"author": "Gregorio Hernández",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Rocks.jpeg",
+			"name": "Rocks",
+			"dimensions": "4068x2592"
+		},
+		{
+			"author": "Gregorio Hernández",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Sea.jpeg",
+			"name": "Sea",
+			"dimensions": "4068x2592"
+		},
+		{
+			"author": "Laureano Ruiz",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Sunrise%20White.png",
+			"name": "Sun",
+			"dimensions": "2880x1800"
+		},
+		{
+			"author": "Laureano Ruiz",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Sunrise.png",
+			"name": "Sunrise",
+			"dimensions": "2880x1800"
+		},
+		{
+			"author": "Gregorio Hernández",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Waterfall.jpeg",
+			"name": "Waterfall",
+			"dimensions": "4068x2592"
 		}
+		
 	]
 }
