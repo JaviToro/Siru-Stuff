@@ -2,6 +2,12 @@
 "wallpapers": 
 	[
 		{
+			"author": "Francisco Maguilla",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Aboveness.jpg",
+			"name": "Aboveness",
+			"dimensions": "3024x4032"
+		},
+		{
 			"author": "Gregorio Hernández",
 			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Bridge.jpeg",
 			"name": "Bridge",
@@ -12,6 +18,12 @@
 			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Coast.jpeg",
 			"name": "Coast",
 			"dimensions": "4608x2592"
+		},
+		{
+			"author": "Francisco Maguilla",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Glass.jpg",
+			"name": "Glass",
+			"dimensions": "3024x4032"
 		},
 		{
 			"author": "Gregorio Hernández",
