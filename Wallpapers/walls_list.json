@@ -2,6 +2,18 @@
 "wallpapers": 
 	[
 		{
+			"author": "Hampus Olsson",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Wormhole.jpg",
+			"name": "Wormhole",
+			"dimensions": "2560x2560"
+		},
+		{
+			"author": "Laureano Ruiz",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Theory.png",
+			"name": "Theory",
+			"dimensions": "1440x2560"
+		},
+		{
 			"author": "Francisco Maguilla",
 			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Aboveness.jpg",
 			"name": "Aboveness",
