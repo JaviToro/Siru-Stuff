@@ -8,22 +8,16 @@
 			"dimensions": "2560x2560"
 		},
 		{
-			"author": "Laureano Ruiz",
-			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Theory.png",
-			"name": "Theory",
-			"dimensions": "1440x2560"
+			"author": "Javi Toro",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Business.jpg",
+			"name": "Business",
+			"dimensions": "2448x3264"
 		},
 		{
-			"author": "Victor Grimaldo",
-			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Palms.jpeg",
-			"name": "Palms",
-			"dimensions": "3456x4608"
-		},
-		{
-			"author": "Victor Grimaldo",
-			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Wood.jpg",
-			"name": "Wood",
-			"dimensions": "3120x4160"
+			"author": "Javi Toro",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/University.jpg",
+			"name": "University",
+			"dimensions": "3096x4128"
 		},
 		{
 			"author": "Francisco Maguilla",
@@ -74,6 +68,12 @@
 			"dimensions": "2560x1440"
 		},
 		{
+			"author": "Victor Grimaldo",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Palms.jpeg",
+			"name": "Palms",
+			"dimensions": "3456x4608"
+		},
+		{
 			"author": "Alfredo Gilsanz",
 			"url": "https://github.com/JaviToro/Siru-Stuff/raw/master/Wallpapers/Reflexion.jpg",
 			"name": "Reflexion",
@@ -116,6 +116,12 @@
 			"dimensions": "2560x1440"
 		},
 		{
+			"author": "Laureano Ruiz",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Theory.png",
+			"name": "Theory",
+			"dimensions": "1440x2560"
+		},
+		{
 			"author": "María Ribas",
 			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Tower.jpg",
 			"name": "Tower",
@@ -126,6 +132,12 @@
 			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Waterfall.jpeg",
 			"name": "Waterfall",
 			"dimensions": "4608x2592"
+		},
+		{
+			"author": "Victor Grimaldo",
+			"url": "https://raw.githubusercontent.com/JaviToro/Siru-Stuff/master/Wallpapers/Wood.jpg",
+			"name": "Wood",
+			"dimensions": "3120x4160"
 		}
 		
 	]
