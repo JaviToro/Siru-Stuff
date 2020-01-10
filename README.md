@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.com/JaviToro/Siru-Stuff.svg?branch=master)](https://travis-ci.com/JaviToro/Siru-Stuff)
+
 # What's Siru?
 [Siru](https://play.google.com/store/apps/details?id=com.dotsillustration.siru) is an icon pack for Android that I designed and developed along with [Laureano Ruiz](https://github.com/laureanoruiz), using [Blueprint](https://github.com/jahirfiquitiva/Blueprint) by [Jahir Fiquitiva](https://github.com/jahirfiquitiva) as a template base.
 
-# What's this?
+## What's this?
 This repository, Siru-Stuff, includes extra stuff that are needed and used for Siru Icon Pack to work properly. So, it's just a host for info, images, banners and wallpapers that will be showed across the app.
 
 ## License
