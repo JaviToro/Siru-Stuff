@@ -1,6 +1,6 @@
 sudo: false
 os: osx
-language: python
+language: node_js
 script:
   - mkdir test
   - cp README.md /test/README.md
