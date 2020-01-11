@@ -11,4 +11,4 @@ This repository, Siru-Stuff, includes extra stuff that are needed and used for S
 This content is shared under the CreativeCommons Attribution-ShareAlike 4.0 license.
 
 ## Authors
-© 2016-2020 Javi Toro and Laureano Ruiz
+© 2016-2020 Javi Toro and Laureano Ruiz.
